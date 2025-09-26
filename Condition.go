@@ -5,11 +5,6 @@ import (
 	"math/rand"
 	"time"
 )
-
-func main() {
-	//Point()
-	Usia()
-}
 /*func Point() {
 
 	 rand.Seed(time.Now().UnixNano())
