@@ -6,7 +6,5 @@ func main(){
 	//Array()
 	//Loop()
 	//Slice()	
-	String()
-	
-
+	//String()
 }
